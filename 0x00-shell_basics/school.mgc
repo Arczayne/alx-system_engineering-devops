@@ -1,2 +1,2 @@
-#!/bin/bash
-ln -s /bin/ls SCHOOL
+#!/bib/bash
+file -s SCHOOL
