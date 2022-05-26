@@ -1,2 +1,2 @@
-#!/bib/bash
-file -s SCHOOL
+#!/bin/bash
+0 string school file
