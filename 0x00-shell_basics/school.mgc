@@ -7,3 +7,7 @@ chmod u+x school.mgc
 file -C -m school.mgc *
 
 file --mime-type -m school.mgc *
+
+
+
+
